@@ -10,3 +10,5 @@ function printName(name) {
 }
 
 printName("John Doe");
+
+printName("Vedant Puntambekar");
